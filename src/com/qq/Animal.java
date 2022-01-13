@@ -1,6 +1,6 @@
 package com.qq;
 
-
+// 改了master
 // master
 //动物抽象类接口
 public interface Animal {
