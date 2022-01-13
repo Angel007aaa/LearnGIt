@@ -1,5 +1,7 @@
 package com.qq;
 
+
+// master
 //动物抽象类接口
 public interface Animal {
     public void eat(); //所有动物都离不开eat()吃的行为,把吃放在动物的这个类是合理的，写一个方法来模拟吃这个行为
