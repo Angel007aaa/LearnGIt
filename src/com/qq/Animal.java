@@ -6,8 +6,6 @@ public interface Animal {
 
     // move（）这个行为不能放在这，有些动物不能走，比如鱼类
 
-
-
     // git 改了一年东西
 
 }

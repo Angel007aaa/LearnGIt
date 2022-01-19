@@ -16,6 +16,6 @@ public class Monkey implements Primate {
 
     @Override
     public void move() { //实现该行为
-        System.out.println(name+"开始在树上跳");
+        System.out.println(name+"开始在树上跳ll");
     }
 }

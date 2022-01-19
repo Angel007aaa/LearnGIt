@@ -16,7 +16,7 @@ public class Person implements Primate{
 
     @Override
     public void eat() {
-        System.out.println(name+"开始干饭");
+        System.out.println(name+"开始干饭lllll");
     }
 
     @Override
